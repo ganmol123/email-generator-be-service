@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository** to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/fastapi-email-generation.git
+   git clone https://github.com/ganmol123/email-generator-be-service.git
    ```
 
 2. **Navigate to the project directory**:
@@ -92,12 +92,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-You can copy and paste this Markdown content into a README.md file in your project repository.
-```
-
-```
-
-```
